@@ -17,10 +17,10 @@ Construyo **landing pages, catálogos online y aplicaciones web** para negocios 
 ## 🚀 Sobre mí
 
 - Apasionado por crear productos web que sean **útiles, intuitivos y visualmente atractivos**.  
-- Fundador de **404studios.digital**, donde desarrollo proyectos para PYMEs, combinando diseño y funcionalidad.  
-- Experiencia en **landing pages, catálogos digitales, sistemas de reservas y tiendas online**.  
-- Curioso por la tecnología, aprendizaje continuo y siempre abierto a colaborar en proyectos interesantes.  
-- Me enfoco en entregar **productos escalables, con código limpio y documentación clara**, adaptados a negocios reales con necesidades concretas.
+- Fundador de **404studios.digital**, donde desarrollo proyectos digitales para PYMEs y negocios locales.  
+- Experiencia en **landing pages, catálogos digitales, sistemas de reservas, tiendas online y dashboards de gestión de leads**.  
+- Curioso por la tecnología, aprendizaje continuo y siempre abierto a colaborar en proyectos desafiantes.  
+- Me enfoco en entregar **productos escalables, con código limpio y documentación clara**, adaptados a necesidades reales.
 
 ---
 
@@ -36,13 +36,18 @@ Construyo **landing pages, catálogos online y aplicaciones web** para negocios 
 
 ## 🗂️ Proyectos destacados
 
-- [**Click & Crust**](#) – Tienda online para panadería artesanal en Madrid. Sistema de reservas y carrito de productos. React + TypeScript + TailwindCSS.  
-- [**Carnes El Novillo**](#) – Catálogo y landing para carnicería en Chile, con reseñas reales de Google y mapa interactivo.  
-- [**Cerrajería-Rex**](#) – Landing page para servicio de cerrajería 24/7 en Madrid, optimizada para SEO local y conversión.  
-- [**Calculadora de Propinas**](#) – Proyecto inicial para practicar JavaScript y manipulación del DOM.  
-- [**Lead Management Dashboard**](#) – Sistema de gestión de leads con Firebase, Zustand y React Query, mostrando detalles, historial y notas internas.  
-- [**ProjectsView App**](#) – Vista de proyectos con tarjetas, progreso, tareas y equipo; integrando datos en tiempo real desde Firebase.  
-- [**Ohanna Web**](#) – Actualización de tienda online y branding visual para segunda mano, con mejoras UX/UI y animaciones interactivas.
+### 🔹 Landing Pages y E-commerce
+- [**Cerrajería-Rex**](https://cerrajeriarex.vercel.app) – Landing page moderna y responsive para cerrajería 24/7 en Madrid. Catálogo de servicios, testimonios de clientes y contacto rápido. Tecnologías: Vite, React, TypeScript, Tailwind CSS, shadcn/ui.  
+- [**Carnes El Novillo**](https://novillo-carnes-tienda.vercel.app) – Landing y catálogo online para carnicería local. Productos, reseñas, reservas, optimizado para móvil y escritorio.  
+- [**Click & Crust**](https://crust-and-click.vercel.app) – Tienda online para PanMadrid S.L., combinando tradición artesanal con funcionalidades digitales como reservas y carrito de productos.  
+- [**Easywood**](https://github.com/Arrobajean/easywood) – Sitio corporativo con gestión de leads en Firebase/Firestore y notificaciones vía Cloud Functions. Optimizado para rendimiento y SEO.  
+- [**Tu Carretillero**](https://tucarretillero.vercel.app) – Rediseño moderno y responsivo, enfocado en accesibilidad, rendimiento y diseño profesional para negocio local.
+
+### 🔹 Proyectos sin repositorio público
+- [**Ohanna USA**](https://www.ohannausa.com) – Tienda online y branding para segunda mano, con mejoras UX/UI y animaciones interactivas.  
+- [**404studios.digital**](https://404studios.digital) – Portfolio y servicios de desarrollo web y diseño digital.  
+- [**HDSound**](https://hdsound.es) – Sitio corporativo para empresa de audio profesional.  
+- [**Llemy Reformas**](https://llemy.com) – Web de empresa de reformas, con foco en presentación de servicios y contacto.
 
 ---
 
@@ -54,5 +59,3 @@ Construyo **landing pages, catálogos online y aplicaciones web** para negocios 
 - Portfolio: [404studios.digital](https://404studios.digital)  
 
 ---
-
-💡 **Tip:** Mantén tu README actualizado con tus últimos proyectos y agrega capturas o GIFs de tus interfaces para hacerlo más visual y atractivo.
