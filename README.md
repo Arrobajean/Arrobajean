@@ -1,61 +1,92 @@
-<div align="center">
+Jean Paul Castañeda · Frontend Developer
 
-# 👋 ¡Hola! Soy Jean Paul Castañeda (@Arrobajean)
+Construyo interfaces rápidas, modernas y pensadas para durar.
 
-Desarrollador Frontend & Web Apps | Fundador de **404studios.digital**.  
-Construyo **landing pages, catálogos online y aplicaciones web** para negocios reales, con enfoque en **código limpio, UI accesible y soluciones escalables**.
+Frontend developer y founder de 404studios · Especializado en React, Next.js y TypeScript · QA Automation en Softek
 
-<br />
+🎯 About
 
-[![GitHub followers](https://img.shields.io/github/followers/Arrobajean?label=Follow&style=social)](https://github.com/Arrobajean)
-[![Profile Views](https://komarev.com/ghpvc/?username=Arrobajean&color=0e75b6&style=flat)](https://github.com/Arrobajean)
+No me interesa solo "hacer webs bonitas". Me interesa construir productos que se sientan rápidos, claros y sólidos cuando alguien los usa de verdad.
 
-</div>
++2 años desarrollando en producción · +5 clientes con proyectos activos · +90 Lighthouse scores en performance y UX · Basado en Madrid, ES
 
----
+Trabajo en el ecosistema React moderno: interfaces escalables, animaciones fluidas, arquitectura limpia y optimización real. Mi experiencia en QA automation influye directamente en cómo desarrollo—pienso siempre en estabilidad, testing y mantenimiento a largo plazo.
 
-## 🚀 Sobre mí
+🛠️ Stack & Expertise
+Frontend · UI · Motion
+React 18 · Next.js 15 · TypeScript
+Tailwind CSS · SCSS/SASS · CSS Modules
+Framer Motion · GSAP · Motion design & micro-interactions
+Vite · ESLint · Prettier
+Backend · Data
+Firebase · Supabase · REST APIs
+TanStack Query · State management & async flows
+QA · Testing
+Cypress · Jest · Page Object Model
+E2E automation · Test strategy & quality-first development
+Performance & SEO
+Lighthouse · Core Web Vitals
+Technical SEO · Accessibility · Semantic HTML
+AI Workflow
+Cursor · Claude Code · GitHub Copilot
+Integrated AI in daily workflow: debugging, component generation, documentation
+💼 Experience
+Frontend Developer & Founder
 
-- Apasionado por crear productos web que sean **útiles, intuitivos y visualmente atractivos**.  
-- Fundador de **404studios.digital**, donde desarrollo proyectos digitales para PYMEs y negocios locales.  
-- Experiencia en **landing pages, catálogos digitales, sistemas de reservas, tiendas online y dashboards de gestión de leads**.  
-- Curioso por la tecnología, aprendizaje continuo y siempre abierto a colaborar en proyectos desafiantes.  
-- Me enfoco en entregar **productos escalables, con código limpio y documentación clara**, adaptados a necesidades reales.
+404studios · Jan 2024 → Present
 
----
+Diseño y desarrollo de aplicaciones web para e-commerce, plataformas de servicios y productos digitales.
 
-## 🧰 Tech Stack
+Live projects:
 
-- **Frontend:** HTML, CSS, SASS/SCSS, JavaScript, TypeScript, React, Next.js, Vite  
-- **UI & Diseño:** TailwindCSS, Bootstrap, shadcn/ui, Framer Motion  
-- **Backend & Bases de datos:** Node.js, Express, NestJS, Firebase (Auth, Firestore, Storage)  
-- **DevOps & Herramientas:** Git, GitHub Actions, Docker, Vercel, Netlify  
-- **Otros:** APIs externas (Google Maps, Google Places), SEO local  
+Winking Travel · Agencia de viajes a medida · Next.js + Firebase
+YIMAILIFE · E-commerce B2B multilenguaje · Packaging & HORECA
+Donalexa · E-commerce · Donas premium
+HD Sound · Landing + lead capture · DJ bodas
+Ohanna USA · E-commerce interactivo
+WJA Studios · Web corporativa
 
----
+Responsibilities:
 
-## 🗂️ Proyectos destacados
+Mobile-first UI/UX · Responsive design & user experience
+Performance optimization · Core Web Vitals & Lighthouse scores
+Firebase & REST APIs · Dynamic features & data management
+Motion design · Animations (Framer Motion, GSAP)
+Technical SEO & accessibility audits
+QA Engineer
 
-### 🔹 Landing Pages y E-commerce
-- [**Cerrajería-Rex**](https://cerrajeriarex.vercel.app) – Landing page moderna y responsive para cerrajería 24/7 en Madrid. Catálogo de servicios, testimonios de clientes y contacto rápido. Tecnologías: Vite, React, TypeScript, Tailwind CSS, shadcn/ui.  
-- [**Carnes El Novillo**](https://novillo-carnes-tienda.vercel.app) – Landing y catálogo online para carnicería local. Productos, reseñas, reservas, optimizado para móvil y escritorio.  
-- [**Click & Crust**](https://crust-and-click.vercel.app) – Tienda online para PanMadrid S.L., combinando tradición artesanal con funcionalidades digitales como reservas y carrito de productos.  
-- [**Easywood**](https://github.com/Arrobajean/easywood) – Sitio corporativo con gestión de leads en Firebase/Firestore y notificaciones vía Cloud Functions. Optimizado para rendimiento y SEO.  
-- [**Tu Carretillero**](https://tucarretillero.vercel.app) – Rediseño moderno y responsivo, enfocado en accesibilidad, rendimiento y diseño profesional para negocio local.
+Softek · Feb 2025 → Sep 2026
 
-### 🔹 Proyectos sin repositorio público
-- [**Ohanna USA**](https://www.ohannausa.com) – Tienda online y branding para segunda mano, con mejoras UX/UI y animaciones interactivas.  
-- [**404studios.digital**](https://404studios.digital) – Portfolio y servicios de desarrollo web y diseño digital.  
-- [**HDSound**](https://hdsound.es) – Sitio corporativo para empresa de audio profesional.  
-- [**Llemy Reformas**](https://llemy.com) – Web de empresa de reformas, con foco en presentación de servicios y contacto.
+E2E testing, test automation, and quality assurance.
 
----
+Cypress automation · Page Object Model · TypeScript test suites
+E2E validation · Authentication & critical user flows
+Cross-team collaboration · Documentation & issue tracking (Jira)
+🎓 Training & Certifications
+Google AI Professional Certificate (2026) — IA, automation, AI-assisted workflows
+IBM SkillsBuild: Retrieval-Augmented Generation (2026) — LLM systems & RAG architecture
+IBM SkillsBuild: Cybersecurity Fundamentals (2026)
+Desarrollo de Aplicaciones Web · IFCD0210 (2024) — 590 hours · Official certification
+Licenciatura en Derecho — Universidad Bicentenaria de Araguaprevio
+📊 Metrics & Highlights
+Metric	Value
+Years in production	+2
+Active projects	+5
+Avg. Lighthouse score	90+
+Tech stack breadth	Frontend, Backend, QA, AI Integration
+Client satisfaction	Portfolio-driven
+🌐 Languages
+Español · Nativo
+English · B1 Intermediate (fluent technical reading & writing)
+📬 Get in Touch
 
-## 📫 Cómo contactarme
+Open to projects, collaborations, and opportunities where I can deliver solid frontend, good design judgment, and real attention to detail.
 
-- GitHub: [github.com/Arrobajean](https://github.com/Arrobajean)  
-- LinkedIn: [linkedin.com/in/jean-paul-castañeda-h](https://www.linkedin.com/in/jean-paul-castañeda-h)  
-- Email: jean.castanedah@gmail.com  
-- Portfolio: [404studios.digital](https://404studios.digital)  
+📧 Email: hola@404studios.es
+🔗 Portfolio: 404studios.es
+💼 LinkedIn: jeancastanedah
+🐙 GitHub: @Arrobajean
 
----
+Always building for performance, quality, and real user needs.
+
+404studios · Madrid, Spain · 2026
