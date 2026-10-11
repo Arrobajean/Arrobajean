@@ -2,7 +2,7 @@
   <img src="https://www.404studios.es/brand/logo.svg" alt="404studios" width="120" />
 
   # Jean Paul Castañeda
-  ### Full Stack Developer · React · Next.js · TypeScript
+  ### Frontend-leaning Full Stack · Next.js + TypeScript · QA Automation
 
   > Construyo interfaces rápidas, modernas y pensadas para durar.
   > *I build fast, accessible web products, from the database to the pixel.*
@@ -19,13 +19,13 @@
 
 ## 🎯 Sobre mí
 
-Desarrollador **Full Stack** con más de 4 años en producción. Trabajo el frontend con **React**, **Next.js** y **TypeScript**, y el backend con **Node.js**, **PHP** y **SQL**. Fundador de **[404studios](https://www.404studios.es)**, un estudio web que entrega producto de alto rendimiento para negocios reales, de la arquitectura al despliegue.
+Desarrollador **Full Stack con foco en Frontend** con 4 años construyendo para producción: 2022–2023 agencia (PHP/MVC, Fénix Byte) + 2024–hoy fundador de **[404studios](https://www.404studios.es)**, un estudio web que entrega producto de alto rendimiento para negocios reales, de la arquitectura al despliegue.
 
 No me interesa solo "hacer webs bonitas". Me interesa construir productos que se sientan **rápidos, claros y sólidos** cuando alguien los usa de verdad.
 
 **🔎 Busco:** contrato indefinido como desarrollador Full Stack / Frontend (Madrid o remoto). 404studios sigue en paralelo.
 
-**+4 años** en producción · **9 proyectos** entregados · **Lighthouse 90+** · **WCAG 2.1 AA** · **E2E con Cypress y CI**
+**4 años** en producción (2022→) · **7 sitios** de cliente en producción · **42 tests** Cypress en CI (28 E2E + 14 API) · Core Web Vitals medidos en móvil · accesibilidad en auditoría con axe
 
 ---
 
@@ -92,12 +92,14 @@ Aplicaciones web y portales de clientes para pymes con PHP (MVC), JavaScript y M
 
 ## 📂 Repos destacados
 
-| Repo | Qué es |
+| Repo | Qué demuestra |
 | --- | --- |
-| [cypress-portafolio](https://github.com/Arrobajean/cypress-portafolio) | Framework E2E + API con Cypress y TypeScript: Page Object Model, 18 escenarios E2E y 14 de API, CI en GitHub Actions con matriz Chrome / Firefox / Edge |
-| [yimai-life](https://github.com/Arrobajean/yimai-life) | E-commerce con Shopify Storefront API y panel de blog con editor TipTap |
-| [autohaus](https://github.com/Arrobajean/autohaus) | Web corporativa con panel de administración, Firebase y documentación de arquitectura |
+| [atlas-rag](https://github.com/Arrobajean/atlas-rag) | RAG con Next.js + Supabase/pgvector + Gemini: SQL parametrizado, búsqueda híbrida, guardrails anti prompt-injection, tests contra PGlite, CI verde |
+| [cypress-portafolio](https://github.com/Arrobajean/cypress-portafolio) | Framework E2E + API con Cypress y TypeScript: Page Object Model, 28 escenarios E2E y 14 de API (42 tests), CI en GitHub Actions con matriz Chrome / Firefox / Edge |
+| [yimai-life](https://github.com/Arrobajean/yimai-life) | E-commerce con Shopify Storefront API (solo token público, sin secretos en cliente) y blog con editor TipTap tras repositorio abstraído |
+| [autohaus](https://github.com/Arrobajean/autohaus) | Web corporativa con panel admin solo para claim `admin`, reglas Firestore/Storage testeadas con emulador y Cloud Functions con plantillas escapadas |
 | [HereYouTravel](https://github.com/Arrobajean/HereYouTravel) | Web de agencia de viajes · Vite, React, Tailwind, Firebase, Vercel |
+| [easywood](https://github.com/Arrobajean/easywood) | Web de reformas con formulario vía Cloud Function con rate-limit, reglas Firestore versionadas y README con decisiones honestas |
 
 ---
 
